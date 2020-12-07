@@ -3,6 +3,11 @@ body {
   background-color: #6495ED
 }
 
+
+/*“How TO - Collapse Sidepanel.” How To Create a Collapsed Sidepanel, www.w3schools.com/howto/howto_js_collapse_sidepanel.asp.
+*/
+
+/*CSS Buttons, www.w3schools.com/css/css3_buttons.asp. is the refrence for the colour changing button*/
 .side {
   height: 750px;
   width: 0;
@@ -36,7 +41,7 @@ body {
   margin-left: 50px;
 }
 
-/*  the button that is used to open the sidepanel */
+/*  the button that is used to open the sidepanel and the colours */
 .openbtn {
   left: 68px;
   width:130px;
@@ -101,7 +106,8 @@ body {
    color: white
    }
 
-   /*  the clock */
+   /*"digital colck in Javascript ,https://codepen.io/afarrar/pen/JRaEjP".*/
+  /*  the clock */
     .clock {
     position: absolute;
     top: 50%;
